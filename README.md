@@ -1,2 +1,2 @@
 # py_learning
-Repositório para projetos testes em python
+Repositório para projetos e testes em python
